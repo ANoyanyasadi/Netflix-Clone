@@ -1,11 +1,11 @@
 # Udemig-Netflix-Clone-Project
 
 
-# Done Netflix Clone Project by applying to HTML, and CSS. 
+ Done Netflix Clone Project by applying to HTML, and CSS. 
 
 
 
-# Used Programmes: 
+ Used Programmes: 
 
  • HTML5, 
  
@@ -14,6 +14,6 @@
 
 
 
- # Below, you can please see GIF of my work.
+  Below, you can please see GIF of my work.
 
 <img src="https://github.com/ANoyanyasadi/Netflix-Clone/blob/main/gif.gif" width="auto">
